@@ -1,6 +1,6 @@
 # Parking observations
 
-Source: team CVAT export chatgpt/parking_final.zip, corrected with assistant help in chatgpt/parking_corrected.zip. Original export is preserved.
+Source: team CVAT export, corrected with assistant help and leader authorization. The original export is preserved locally. The submitted version is parking/annotations.xml.
 
 - Selected dividers: six visible painted segments across the middle row. For example, the left divider runs approximately (59,521) to (49,569), and the next diagonal runs (175,522) to (245,564). Both divide adjacent parking bays. The remaining four follow the visible receding bay dividers.
 - Excluded marking: the original seventh polyline connected (0,542) to (960,506). It did not trace a continuous visible painted bay divider and was removed; the fact that it crossed a parking lot was insufficient. The fence/vegetation boundary was also excluded.

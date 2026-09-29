@@ -4,3 +4,6 @@ build/
 .[e]nv
 __pycache__/
 *.pyc
+
+# Local assistant drafts, previews, and helper files
+/chatgpt/
