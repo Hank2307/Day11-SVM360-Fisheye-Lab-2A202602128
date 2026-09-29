@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,20,clear visible objects and ordinary parking context,"Baseline coverage across distinct drives, lighting and scenes"
+front,hard,30,crossing people; distant riders; front-side seams,"Equal camera coverage; enrich difficult cases for diagnosis, not prevalence estimation"
+rear,normal,20,clear visible objects and ordinary parking context,"Baseline coverage across distinct drives, lighting and scenes"
+rear,hard,30,reversing scene; low obstacles; rear-side seams,"Equal camera coverage; enrich difficult cases for diagnosis, not prevalence estimation"
+left,normal,20,clear visible objects and ordinary parking context,"Baseline coverage across distinct drives, lighting and scenes"
+left,hard,30,close riders; strong edge distortion; side occlusion,"Equal camera coverage; enrich difficult cases for diagnosis, not prevalence estimation"
+right,normal,20,clear visible objects and ordinary parking context,"Baseline coverage across distinct drives, lighting and scenes"
+right,hard,30,curb-side pedestrians; parked vehicles; side occlusion,"Equal camera coverage; enrich difficult cases for diagnosis, not prevalence estimation"

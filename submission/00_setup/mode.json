@@ -1,0 +1,28 @@
+{
+  "members": [
+    "anh02128",
+    "hai02073",
+    "manh02122"
+  ],
+  "assignments": {
+    "anh02128": "B1-center",
+    "hai02073": "B2-center",
+    "manh02122": "B1-dense"
+  },
+  "self": "anh02128",
+  "slice": "B1-center",
+  "degrade": [
+    "stretch",
+    "k12"
+  ],
+  "current_slice": "B1-center",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": [
+    "adasind_006840.jpg:1",
+    "adasind_006840.jpg:2",
+    "adasind_006840.jpg:3",
+    "adasind_006840.jpg:4",
+    "adasind_006840.jpg:5"
+  ]
+}

@@ -1,0 +1,4 @@
+frame,type,left,reference,left_label,reference_label,iou
+adasind_006840.jpg,missing_annotation,,7,,Pedestrian,N/A
+adasind_056040.jpg,mismatching_attributes,5,7,Car,Car,0.921
+adasind_056040.jpg,extra_annotation,3,,Pedestrian,,N/A

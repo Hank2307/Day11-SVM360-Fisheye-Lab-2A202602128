@@ -1,1 +1,10 @@
 id,date,question,decision,rationale,status
+D01,2026-09-28,Shared repository,Use leader repo with three contributors,Coach exception reported by leader; official metrics use leader B1-center and full team exports remain in chatgpt,accepted
+D02,2026-09-28,AI provenance,Disclose frozen-model draft and collaborative review,L/M agreement is dependent; no independent blind student QA claimed,accepted
+D03,2026-09-28,No-ego frames,Remove ego polygons in 006840 and 271039 before snapshot locks,R07 and original frames; originals retained in backups_before_ego_fix,resolved
+D04,2026-09-28,006840 missing person R7,Add one visible Pedestrian in v2,R01; screenshots/006840_missing_pedestrian.png; immutable r1 baseline retained,resolved
+D05,2026-09-28,056040 L3+M4 disagreement,Retain pending coach/QA adjudication,"R03; screenshots/056040_pedestrian_conflict.png; ticket recorded, not externally sent",escalated
+D06,2026-09-28,B2-center peer concerns,Request team check of missing vehicle and rider/person cases,r2_qa/qa_review.md; original snapshots preserved,pending
+D07,2026-09-28,Calibration C0 mismatch,Preserve locked calibration evidence and record unresolved cargo-class cases,p1_calib/compare.html; do not rewrite baseline to match reference,escalated
+D08,2026-09-28,K12 and stretch,Omit optional K12 object-contour exercise and stretch,Team export has ignore polygons only; prioritize mandatory handover. No claim that fill ratio was measured,accepted
+D09,2026-09-29,Parking scope,Remove unsupported full-width line; select interior aisle free-space,Leader authorized correction; original ZIP preserved; screenshots/parking_corrected_preview.jpg,resolved

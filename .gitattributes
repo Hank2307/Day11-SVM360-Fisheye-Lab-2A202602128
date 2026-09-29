@@ -1,0 +1,3 @@
+# Preserve submitted evidence and hash-locked XML across operating systems.
+submission/** -text
+chatgpt/submission_work/*.xml -text
